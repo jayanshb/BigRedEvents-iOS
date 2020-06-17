@@ -4,4 +4,4 @@ An app that centralizes all the information about the events on Cornell's campus
 
 Link to Backend repository: https://github.com/jayanshb/BigRedEvents-Backend
 
-iOS: Adityavardhan Agrawal, Mihikaa Goenka Backend: Shrey Baid, Jayansh Bhartiya
+Team : Jayansh Bhartiya, Shrey Baid, Adityavardhan Aggarwal, Mihika Goenka
